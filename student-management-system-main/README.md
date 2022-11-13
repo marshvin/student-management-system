@@ -4,7 +4,7 @@ Student management system project in python
 ****Tools and Libraries****
 
 
-<h5>Tkinter</h5>
+<p>Tkinter</p>
 
 
 ****Install MySQL server****
@@ -13,4 +13,4 @@ Student management system project in python
 
 ****Create a Database and a Table****
 
-<h5>pyMYSQL</h5>
+<p>pyMYSQL</p>
